@@ -1,5 +1,6 @@
 ## Olá mundo!
 Me chamo Nicole, tenho 16 anos e atualmente curso TI no IFTM!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolerezhub&theme=dark&show_icons=true)
 
 
 <!--
