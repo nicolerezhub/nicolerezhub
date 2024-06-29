@@ -1,10 +1,14 @@
 ## Hello World! 😃
 
 𓆩♡𓆪Nicole𓆩♡𓆪
-ꨄ 16 yrsꨄ  
+
+ꨄ 16 yrsꨄ
+
 ୨ৎcurrently studying comp-sci୨ৎ
+
 ⊹ ࣪ ˖big fan of back-end proggaming languages⊹ ࣪ ˖
 
+## Stats 💖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolerezhub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolerezhub&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
