@@ -8,6 +8,11 @@
 
 ⊹ ࣪ ˖big fan of back-end proggaming languages⊹ ࣪ ˖
 
+## Me ☠️
+
+ <img src="gif.webp" alt="me typing">
+
+
 ## Stats 💖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolerezhub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
