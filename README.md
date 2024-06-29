@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolerezhub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
 
-![ambient_gradient_repo](https://github-readme-stats.vercel.app/api/pin/?username=nicolerezhub&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolerezhub&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <!--
 **nicolerezhub/nicolerezhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
