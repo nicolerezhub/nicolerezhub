@@ -6,7 +6,7 @@
 
 ୨ৎcurrently studying comp-sci୨ৎ
 
-⊹ ࣪ ˖big fan of back-end proggaming languages⊹ ࣪ ˖
+⊹ ࣪ ˖⊹ ࣪ ˖
 
 ## Me ☠️
 
