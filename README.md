@@ -14,7 +14,6 @@
  <audio controls autoplay>
   <source src="You're Standing On My Neck.mp3" type="audio/mpeg">
 </audio>
-You're Standing On My Neck.mp3
 
 ## Stats 💖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolerezhub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
